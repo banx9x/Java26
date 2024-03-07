@@ -1,0 +1,18 @@
+.heading {
+    color: green;
+    font-size: 30px;
+    background-color: rgb(230, 228, 228);
+    border-width: 10px;
+    border-style: dashed;
+    border-color: rgb(171, 171, 47);
+    text-align: center;
+    direction: rtl;
+    width: 500px;
+    height: 300px;
+    line-height: 300px;
+    text-decoration: line-through;
+    text-transform: uppercase;
+    letter-spacing: 16px;
+    word-spacing: -20px;
+    text-shadow: 5px 5px 10px;
+}
